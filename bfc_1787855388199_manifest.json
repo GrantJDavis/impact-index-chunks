@@ -1,0 +1,155 @@
+{
+  "version": 1787855388199,
+  "prefix": "bfc",
+  "files": [
+    {
+      "name": "bfc_1787855388199_chunk_aa",
+      "bytes": 1572864,
+      "sha256": "36ac82d983785ebbdf6ebdc88a176baac7c9494ad0bb70cf72bde48d75fe0757"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ab",
+      "bytes": 1572864,
+      "sha256": "702c95225c3b49c6eb456b375464ff17e29f39bc6e9e4ab1463a2c7a06410ec0"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ac",
+      "bytes": 1572864,
+      "sha256": "04584c0d859255901b08602576f1d3eee21219f90d38546be51a7311f3a88744"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ad",
+      "bytes": 1572864,
+      "sha256": "f1f3426302cca56040ac03bb6948ddfb7f4df0bcf3f5c456cab6bef8f3c17cec"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ae",
+      "bytes": 1572864,
+      "sha256": "3e55530f998e20a67a1560e5ae1149747a7454b12e74e5a50f4ffb114182e66f"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_af",
+      "bytes": 1572864,
+      "sha256": "7dba69030592190601875972fc965bde97feaa582d029d3d965341d5bd9ae087"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ag",
+      "bytes": 1572864,
+      "sha256": "1ac30535238ffd11c65bce21cc3dee5f882e4308d4b518ffc914002491a15577"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ah",
+      "bytes": 1572864,
+      "sha256": "23b3da589a5fff104858da817f1e41a2413207ddb746cb4278295f9c3eefdc54"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ai",
+      "bytes": 1572864,
+      "sha256": "8634ae9086e260d315419e2114eee2f9c033ab511c51322c05e61b8386e20664"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_aj",
+      "bytes": 1572864,
+      "sha256": "42cc4f14c66ee088fddc358bf3de8c8c4063448681e5f18178925804b410f7e9"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ak",
+      "bytes": 1572864,
+      "sha256": "4b1b4a8965e12a514de89ca3f1b792eba6afd350c68b0e0c061875aae541b13a"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_al",
+      "bytes": 1572864,
+      "sha256": "f3c1721800d879f48a71eed0f5c4dd93e230d172ca2de9cbcf7003729ab9f843"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_am",
+      "bytes": 1572864,
+      "sha256": "897329bde245b41e8e18e31768bdcb876f9ae91346cce9356a16e672b2d7ed2d"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_an",
+      "bytes": 1572864,
+      "sha256": "c6936b4831fb6805988c7d877f45a7019bb42efa43958f813913bb2def14c9e5"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ao",
+      "bytes": 1572864,
+      "sha256": "8a33ac0e933cb15ee17739b3ba19a716c659f1b7f0629fb2d156faf026661248"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ap",
+      "bytes": 1572864,
+      "sha256": "9acea482b7de99b33198831c1270f0155e6490f5c298bdf1f357a64506d2f880"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_aq",
+      "bytes": 1572864,
+      "sha256": "beb9ba409d56b54d28f40a0b3a9a8117255f6d4cd94b95394a3d177f80d0a819"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ar",
+      "bytes": 1572864,
+      "sha256": "05636f90205f4d7f5578dc411faa063e07e00cccb558f59bcc014ea2ef83643f"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_as",
+      "bytes": 1572864,
+      "sha256": "4b53462afc6f44d40f74af351a630b5196cb68ecb06c23bcf8f341662630ad44"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_at",
+      "bytes": 1572864,
+      "sha256": "7a7c0c93c97fe149dbdacbb212dd35b51c2bacbd3d9cc7f2c3e5bf22e0ef9cce"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_au",
+      "bytes": 1572864,
+      "sha256": "7b79b6581a5395d330ee18f0e98d4697b8c2ded4ffe7cbb51ccc297c270cde5b"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_av",
+      "bytes": 1572864,
+      "sha256": "ad55627a535b54c97524be7f41c6f067c878c0f465482fcfd88c0bb24d8412c2"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_aw",
+      "bytes": 1572864,
+      "sha256": "58a8101b31611def0ee428cbf14c0d03468fafebbcd4400c7bf6a3421f62fd5f"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ax",
+      "bytes": 1572864,
+      "sha256": "e18a0de5c41f1ffb9e5860d615f4c5be281b310d030d60d443054f7cd11d9db5"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_ay",
+      "bytes": 1572864,
+      "sha256": "8229b0d1ff2a9907b0c5ad89acb3a16aa9ce070e45bfed6b3b23e3c4716fb4d5"
+    },
+    {
+      "name": "bfc_1787855388199_chunk_az",
+      "bytes": 1064977,
+      "sha256": "3e01c06cc0ea7b7a7c261e4830aa0b2007d3e9588074d4b8f8160d612035138d"
+    }
+  ],
+  "chunks": 26,
+  "compressedBytes": 40386577,
+  "decompressedBytes": 118874744,
+  "compressedSha256": "cb2b95ac07e66b3599bfced22ff548e8c483397d00851aef192b5f34f1ce11d4",
+  "jsonSha256": "09412296c9e661a1c29603f26e09f383dbcfb347761a25a4daf99fc4559cb34b",
+  "indexCreatedAt": "2026-08-27T18:21:29.892Z",
+  "indexChunkCount": 16947,
+  "indexContentItems": 1732,
+  "indexSources": {
+    "blogPosts": 303,
+    "products": 458,
+    "sitePages": 421,
+    "sfscPages": 14,
+    "collections": 0,
+    "transcripts": 305,
+    "bfBlog": 231,
+    "productEnrichments": 364,
+    "blogEnrichments": 0
+  }
+}

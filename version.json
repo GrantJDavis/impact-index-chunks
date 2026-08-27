@@ -1,1 +1,18 @@
-{"v": 1783566235237, "chunks": 30, "totalBytes": 35338005}
+{
+  "v": 1787855388199,
+  "chunks": 27,
+  "totalBytes": 41155105,
+  "impact": {
+    "prefix": "impact",
+    "chunks": 27,
+    "compressedSha256": "c9aa5d6e160090366e4934753f6c8d7983bcbfad770c503c45abd85a7951621b",
+    "indexChunkCount": 17077
+  },
+  "bfc": {
+    "prefix": "bfc",
+    "chunks": 26,
+    "totalBytes": 40386577,
+    "compressedSha256": "cb2b95ac07e66b3599bfced22ff548e8c483397d00851aef192b5f34f1ce11d4",
+    "indexChunkCount": 16947
+  }
+}
